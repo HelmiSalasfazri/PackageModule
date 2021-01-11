@@ -27,7 +27,7 @@ Membuat package dan modul berdasarkan tugas praktikum yang sebelumnya dengan str
 ![gambar output](image/mainhelmi.png)
 
 - hasil dari inputan program 
-![gambar output](image/readme.png)
+![gambar output](image/hasilhelmi.png)
 
 
 
